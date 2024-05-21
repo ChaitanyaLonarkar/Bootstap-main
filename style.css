@@ -1,0 +1,60 @@
+body{
+  
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  margin: 0;
+  padding: 0;
+
+}
+
+.nav{
+height: 2rem;
+background-color: white;
+
+}
+main{
+/* background-color: #F4F4F4; */
+background-color: rgb(172 200 236 / 22%);
+
+font-size: 14px;
+height: fit-content;
+
+}
+.navi-items i{
+background-color: rgb(172 200 236 / 22%);
+width: 37px;
+text-align: center;
+}
+/* .logo img,  img{
+size: 4rem;
+} */
+.company .switch p, span{
+/* color: #62C7FD; */
+color: #33aaeb;
+}
+ul  li a{
+text-decoration: none;
+color: rgb(143 142 142);
+font-size: smaller;
+letter-spacing: -0.5px;
+font-weight: 600;
+} 
+.activee{
+background: #c3d4e64d;
+ color: #33aaeb;
+ font-weight: 700;
+}
+.links{
+width: 20rem;
+}
+.detail-items p{
+font-size: 12px;
+/* font-weight: 500; */
+color: gray;
+}
+.items{
+/* padding-right: 20px; */
+width: 250px;
+
+}
